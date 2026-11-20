@@ -29,7 +29,7 @@ Frontend developer from Pakistan, building fast, animation-heavy websites and da
 - Looking for remote frontend / web developer work
 
 ## Find me
-- Portfolio: [personal-portfolio-code-with-faseeh.vercel.app](https://personal-portfolio-code-with-faseeh.vercel.app/)
+- Portfolio: [Personal Portfolio](https://codewithfaseeh.vercel.app/)
 - LinkedIn: [Amir Faseeh Ur Rahman Khan](https://www.linkedin.com/in/amir-faseeh-ur-rahman-khan-9008ab371/)
 - Instagram: [@codewithfaseeh](https://www.instagram.com/codewithfaseeh/)
 - Email: codewithfaseeh@gmail.com
