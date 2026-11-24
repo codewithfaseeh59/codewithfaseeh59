@@ -6,10 +6,13 @@ Frontend developer from Pakistan, building fast, animation-heavy websites and da
 - Build responsive websites and web apps with **React, Next.js and TypeScript**
 - Create cinematic, scroll-driven animations with **GSAP and Lenis**
 - Draw custom charts and graphics with **SVG**
+- Build developer tools, like a scroll-animation editor with a tested TypeScript engine
 
 ## Featured projects
 | Project | What it is | Tech | Links |
 |---|---|---|---|
+| ScrollStudio | Visual scroll-animation editor that exports native CSS and Motion (React) code | React, TypeScript, Vite | [Live](https://scrollstudio-editor.vercel.app/) · [Code](https://github.com/codewithfaseeh59/scroll-animation-studio) |
+| Cinematic Next Starter | Free starter template for cinematic, scroll-driven landing pages | Next.js, TypeScript, GSAP, Lenis | [Live](https://nocturne-cinematic.vercel.app/) · [Code](https://github.com/codewithfaseeh59/cinematic-next-starter) |
 | Pulse Analytics | Responsive analytics dashboard with hand-built SVG charts | React, TypeScript, SVG | [Live](https://pulse-analytic-dashboard.vercel.app/) · [Code](https://github.com/codewithfaseeh59/pulse-analytic-dashboard) |
 | KINETIK | Cinematic gym website with scroll animations | Next.js, TypeScript, GSAP | [Live](https://kinetik-gym-website.vercel.app/) · [Code](https://github.com/codewithfaseeh59/kinetik-gym-website) |
 | Lumora clone | Pixel-accurate landing page clone | HTML, CSS, JavaScript | [Live](https://lumora-clone-vanilla.vercel.app/) · [Code](https://github.com/codewithfaseeh59/lumora-clone-vanilla) |
@@ -22,10 +25,11 @@ Frontend developer from Pakistan, building fast, animation-heavy websites and da
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Currently
-- Building more React and TypeScript projects
+- Building more React and TypeScript projects and developer tools
 - Looking for remote frontend / web developer work
 
 ## Find me
